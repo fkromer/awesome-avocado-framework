@@ -6,8 +6,24 @@
 
 ## Contents
 
+- [Documentation](#documentation)
+- [Packages](#packages)
+- [Test repositories](#test-repositories)
 - [Feature demonstrations](#feature-demonstrations)
 - [Presentations](#presentations)
+
+## Documentation
+
+- [Website](https://avocado-framework.github.io)
+- User guide ([online](http://avocado-framework.readthedocs.io) / [pdf v56.0](https://media.readthedocs.org/pdf/avocado-framework/56.0/avocado-framework.pdf))
+
+## Packages
+
+- Avocado Test Framework ([GitHub](https://github.com/avocado-framework/avocado) / [PyPi](https://pypi.python.org/pypi/avocado-framework))
+
+## Test repositories
+
+- [Avocado Misc Tests](https://github.com/avocado-framework-tests/avocado-misc-tests)
 
 ## Feature demonstrations
 
