@@ -47,8 +47,10 @@
 
 ## Presentations
 
-- [Testing Framework Internals (DevConf 2017)](https://www.youtube.com/watch?v=--fxmmJ5SBA&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
-- [Automated Testing Framework (PyCon CZ 2016)](https://www.youtube.com/watch?v=eTR-LvW80pM&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR&index=2)
-- [Avocado: Open Source Testing Made Easy (LinuxCon 2015)](https://www.youtube.com/watch?v=tdEg07BfdBw&index=3&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
-- [Avocado and Jenkins (DevConf 2016)](https://www.youtube.com/watch?v=XJ7IWQflM9g&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR&index=4)
-- [Avocado: Next Gen Testing Toolbox](https://www.youtube.com/watch?v=xMXS7NB4WSs&index=5&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
+- Testing Framework Internals (DevConf 2017) [video](https://www.youtube.com/watch?v=--fxmmJ5SBA&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
+- Automated Testing Framework (PyCon CZ 2016) [video](https://www.youtube.com/watch?v=eTR-LvW80pM&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR&index=2)
+- Avocado: Open Source Testing Made Easy (LinuxCon 2015) [video](https://www.youtube.com/watch?v=tdEg07BfdBw&index=3&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
+- Avocado and Jenkins (DevConf 2016) [video](https://www.youtube.com/watch?v=XJ7IWQflM9g&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR&index=4)
+- Avocado: Next Gen Testing Toolbox [video](https://www.youtube.com/watch?v=xMXS7NB4WSs&index=5&list=PLpLgrCSz067ao8NsOHdaYtq-06SmBMOBR)
+- Auto Testing for AArch64 Virtualization (Linaro connect San Francisco 2017) [video + slides](http://connect.linaro.org/resource/sfo17/sfo17-502/)
+- libvirt integration and testing for enterprise KVM/ARM (Linaro Connect Budapest 2017) [video + slides](http://connect.linaro.org/resource/bud17/bud17-213/)
