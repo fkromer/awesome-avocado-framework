@@ -19,7 +19,14 @@
 
 ## Packages
 
-- Avocado Test Framework ([GitHub](https://github.com/avocado-framework/avocado) / [PyPi](https://pypi.python.org/pypi/avocado-framework))
+- Avocado Test Framework ([GitHub](https://github.com/avocado-framework/avocado) / [PyPi](https://pypi.python.org/pypi/avocado-framework)) - Avocado Test Framework
+- plugin golang [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-golang) - Avocado Plugin for Execution of Golang tests
+- plugin loader-yaml [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-loader-yaml) - Avocado Plugin that loads tests from YAML files
+- plugin resultsdb [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-resultsdb) - Avocado Plugin to propagate Job results to Resultsdb
+- plugin result-html [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-result-html) - Avocado HTML Report for Jobs
+- plugin robot [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-robot) - Avocado Plugin for Execution of Robot Framework tests
+- plugin runner-docker [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-runner-docker) - Avocado Runner for Execution on Docker Containers
+- plugin runner-remote [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-runner-remote) - Avocado Runner for Remote Execution
 
 ## Test repositories
 
