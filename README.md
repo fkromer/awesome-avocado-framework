@@ -37,10 +37,13 @@
 
 ## Feature demonstrations
 
-- [temporary directory for tests](https://www.youtube.com/watch?v=wyTa5NxG0-I&index=1&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F)
-- [tests tags filtering](https://www.youtube.com/watch?v=C_COvAG_sO8&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=2)
-- [preserve test environment for port-mortem debug](https://www.youtube.com/watch?v=u-PyvFu-KLY&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=3)
-- [advanced logging capabilities](https://www.youtube.com/watch?v=htUbOsh8MZI&index=4&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F)
+- [Temporary directory for tests](https://www.youtube.com/watch?v=wyTa5NxG0-I&index=1&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F)
+- [Tests tags filtering](https://www.youtube.com/watch?v=C_COvAG_sO8&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=2)
+- [Preserve test environment for port-mortem debug](https://www.youtube.com/watch?v=u-PyvFu-KLY&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=3)
+- [Advanced logging capabilities](https://www.youtube.com/watch?v=htUbOsh8MZI&index=4&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F)
+- [Resume job replay](https://www.youtube.com/watch?v=4SWXbyQDyj4&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=5)
+- [Tags in test methods](https://www.youtube.com/watch?v=pv4oCTR82X0&index=6&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F)
+- [ResultsDB plugin](https://www.youtube.com/watch?v=t5l8rnqtaT8&list=PLpLgrCSz067at7jCDUnZn_JJtyo2zFI2F&index=7)
 
 ## Presentations
 
