@@ -29,6 +29,7 @@
 - plugin runner-remote [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-runner-remote) - Avocado Runner for Remote Execution
 - plugin runner-vm [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-runner-vm) - Avocado Runner for libvirt VM Execution
 - plugin varianter-yaml-to-mux [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-varianter-yaml-to-mux) - Avocado Varianter plugin to parse YAML file into variants
+- plugin varianter-pict [PyPi](https://pypi.python.org/pypi/avocado-framework-plugin-varianter-pict) - Varianter with combinatorial capabilities by PICT
 
 ## Test repositories
 
